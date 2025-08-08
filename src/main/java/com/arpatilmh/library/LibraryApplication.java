@@ -1,6 +1,5 @@
 package com.arpatilmh.library;
 
-import com.arpatilmh.library.service.BookService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
